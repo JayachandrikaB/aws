@@ -1,2 +1,2 @@
-# AWS
+# aws
 Learning AWS
